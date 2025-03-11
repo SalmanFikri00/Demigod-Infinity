@@ -53,8 +53,11 @@ export default function Home() {
             className="py-6 w-full sm:w-[90%] md:w-[80%] lg:w-[900px]"
           >
             <p className="text-base sm:text-lg md:text-xl">
-              Selamat datang di Demigod Infinity, sebuah perusahaan yang bergerak di bidang Perdagangan dan Jasa. Kami memiliki tim yang berpengalaman dan terlatih di masing-masing lini bisnis kami, sehingga kami dapat berkomitmen untuk menyediakan produk dan layanan yang berkualitas tinggi dan memuaskan.
+              Demigod Infinity adalah perusahaan yang bergerak di bidang perdagangan dan jasa. Dengan pengalaman dan pengetahuan tim yang professional serta ahli di setiap bidangnya, kami berkomitmen kuat untuk menyediakan solusi yang professional dan berkualitas.
             </p>
+            <br />
+            <p className="text-base sm:text-lg md:text-xl">
+              Kami mengutamakan kualitas andalan dan produk unggulan dalam setiap aspek layanan yang kami berikan, berfokus untuk memenuhi kebutuhan klien dengan pelayanan terbaik yang tidak hanya efektif, tetapi juga istimewa.            </p>
           </div>
         </div>
 
